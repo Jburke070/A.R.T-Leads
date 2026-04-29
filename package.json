@@ -1,0 +1,10 @@
+{
+  "name": "art-lead-generation-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static lead-generation website for Allowing Realities Through A.R.T.",
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "serve": "node scripts/serve-static.js 4180 dist"
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "city": "Roselle Park",
+    "state": "NJ",
+    "path": "/locations/roselle-park-nj/"
+  },
+  {
+    "city": "Union",
+    "state": "NJ",
+    "path": "/locations/union-nj/"
+  },
+  {
+    "city": "Elizabeth",
+    "state": "NJ",
+    "path": "/locations/elizabeth-nj/"
+  },
+  {
+    "city": "Linden",
+    "state": "NJ",
+    "path": "/locations/linden-nj/"
+  },
+  {
+    "city": "Rahway",
+    "state": "NJ",
+    "path": "/locations/rahway-nj/"
+  },
+  {
+    "city": "Cranford",
+    "state": "NJ",
+    "path": "/locations/cranford-nj/"
+  },
+  {
+    "city": "Westfield",
+    "state": "NJ",
+    "path": "/locations/westfield-nj/"
+  },
+  {
+    "city": "Plainfield",
+    "state": "NJ",
+    "path": "/locations/plainfield-nj/"
+  },
+  {
+    "city": "Scotch Plains",
+    "state": "NJ",
+    "path": "/locations/scotch-plains-nj/"
+  },
+  {
+    "city": "Springfield",
+    "state": "NJ",
+    "path": "/locations/springfield-nj/"
+  },
+  {
+    "city": "Newark",
+    "state": "NJ",
+    "path": "/locations/newark-nj/"
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "path": "/locations/jersey-city-nj/"
+  },
+  {
+    "city": "Hoboken",
+    "state": "NJ",
+    "path": "/locations/hoboken-nj/"
+  },
+  {
+    "city": "Bayonne",
+    "state": "NJ",
+    "path": "/locations/bayonne-nj/"
+  },
+  {
+    "city": "Paterson",
+    "state": "NJ",
+    "path": "/locations/paterson-nj/"
+  },
+  {
+    "city": "Manhattan",
+    "state": "NY",
+    "path": "/locations/manhattan-ny/"
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "path": "/locations/brooklyn-ny/"
+  },
+  {
+    "city": "Queens",
+    "state": "NY",
+    "path": "/locations/queens-ny/"
+  },
+  {
+    "city": "Bronx",
+    "state": "NY",
+    "path": "/locations/bronx-ny/"
+  },
+  {
+    "city": "Staten Island",
+    "state": "NY",
+    "path": "/locations/staten-island-ny/"
+  }
+]
