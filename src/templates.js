@@ -215,6 +215,7 @@ function consultationForm({ sourcePage, sourcePath = "/", heading = "Guided cons
 
           <fieldset>
             <legend><span class="fieldset-step">Step 01</span><span>Business contact</span></legend>
+            <p class="form-section-note">Who should A.R.T follow up with after reviewing the request?</p>
             <div class="form-grid">
               <label>
                 <span>Name</span>
@@ -245,6 +246,7 @@ function consultationForm({ sourcePage, sourcePath = "/", heading = "Guided cons
 
           <fieldset>
             <legend><span class="fieldset-step">Step 02</span><span>Creative needs</span></legend>
+            <p class="form-section-note">Choose every area that may need support. A.R.T will help narrow the best setup during the consultation.</p>
             <div class="choice-grid" aria-label="Services Interested In">
               ${checkboxGroup("Services Interested In", services.map((service) => service.title))}
             </div>
@@ -272,6 +274,7 @@ function consultationForm({ sourcePage, sourcePath = "/", heading = "Guided cons
 
           <fieldset>
             <legend><span class="fieldset-step">Step 03</span><span>Context for the call</span></legend>
+            <p class="form-section-note">Share what needs to be fixed, created, organized, or prepared first.</p>
             <label>
               <span>Notes</span>
               <textarea name="Notes" rows="6" placeholder="Tell A.R.T what you need, what is not working now, or what you want your business visuals to feel like."></textarea>
@@ -315,6 +318,7 @@ function renderHome() {
         <p class="eyebrow">Private art department for businesses</p>
         <h1 id="hero-title">Your Business Deserves Its Own Art Department.</h1>
         <p class="hero-subtitle">Graphic design, custom apparel, promotional materials, and website support for small businesses in New Jersey and NYC.</p>
+        <p class="hero-trust">Serving small businesses across New Jersey, nearby towns, and NYC.</p>
         <div class="hero-actions">
           ${consultationButton("Request Consultation", "button button-primary")}
           <a class="button button-secondary" href="#services">View Services</a>
